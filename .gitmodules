@@ -1,3 +1,39 @@
+[submodule "middleware.wiki"]
+	path = middleware.wiki
+	url = https://github.com/universAAL/middleware.wiki.git
+[submodule "ontology.wiki"]
+	path = ontology.wiki
+	url = https://github.com/universAAL/ontology.wiki.git
 [submodule "context.wiki"]
 	path = context.wiki
 	url = https://github.com/universAAL/context.wiki.git
+[submodule "remote.wiki"]
+	path = remote.wiki
+	url = https://github.com/universAAL/remote.wiki.git
+[submodule "ui.wiki"]
+	path = ui.wiki
+	url = https://github.com/universAAL/ui.wiki.git
+[submodule "lddi.wiki"]
+	path = lddi.wiki
+	url = https://github.com/universAAL/lddi.wiki.git
+[submodule "security.wiki"]
+	path = security.wiki
+	url = https://github.com/universAAL/security.wiki.git
+[submodule "service.wiki"]
+	path = service.wiki
+	url = https://github.com/universAAL/service.wiki.git
+[submodule "maven.wiki"]
+	path = maven.wiki
+	url = https://github.com/universAAL/maven.wiki.git
+[submodule "itests.wiki"]
+	path = itests.wiki
+	url = https://github.com/universAAL/itests.wiki.git
+[submodule "utilities.wiki"]
+	path = utilities.wiki
+	url = https://github.com/universAAL/utilities.wiki.git
+[submodule "samples.wiki"]
+	path = samples.wiki
+	url = https://github.com/universAAL/samples.wiki.git
+[submodule "tools.runtime.wiki"]
+	path = tools.runtime.wiki
+	url = https://github.com/universAAL/tools.runtime.wiki.git
