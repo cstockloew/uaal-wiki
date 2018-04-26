@@ -1,0 +1,3 @@
+[submodule "context.wiki"]
+	path = context.wiki
+	url = https://github.com/universAAL/context.wiki.git
