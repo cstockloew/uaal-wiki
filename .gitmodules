@@ -40,3 +40,6 @@
 [submodule "tools.eclipse-plugins.wiki"]
 	path = tools.eclipse-plugins.wiki
 	url = https://github.com/universAAL/tools.eclipse-plugins.wiki.git
+[submodule "platform.wiki"]
+	path = platform.wiki
+	url = https://github.com/universAAL/platform.wiki.git
